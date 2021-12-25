@@ -1,6 +1,6 @@
 # PCA-Assignments
 
-Performed PCA on wine dataset and applied clustering algorithms
+Performed PCA on wine dataset and apply clustering algorithms
 
 Problem Statement
 
