@@ -2,6 +2,14 @@
 
 Performed PCA on wine dataset and apply clustering algorithms
 
+1. As our problem is suggesting to use first 3 principal components for further computation, Extracting the three features from PCA_dataset
+
+2. Performing Heirarchical Agglomerative Clustering
+
+3. Performing K-MEANS Clustering
+
+4. Preparing Actual Vs. Predicted Clusering Data
+ 
 Problem Statement
 
 Perform Principal component analysis and perform clustering using first
